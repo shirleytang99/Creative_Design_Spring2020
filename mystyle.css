@@ -29,6 +29,13 @@ a:link {
   color: blue }
 a:visited {
   color: purple }
+a:hover{
+  color: black;
+  border: solid red;
+  background-color: lightgrey;
+}
+
+
 
 address {
   margin-top: 1em;
